@@ -34,7 +34,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
  *NAME :* DHANUSHKUMAR SIVAKUMAR
 
- *REG.NO.: * 212224040067
+ *REG.NO.:* 212224040067
 
 ![image](https://github.com/user-attachments/assets/17097c47-c7b0-4160-bfc1-da83d44e22f1)
 ![Screenshot 2025-04-18 214026](https://github.com/user-attachments/assets/871670bc-d351-4066-81f2-49c66de9ed1e)
